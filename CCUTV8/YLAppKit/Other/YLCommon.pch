@@ -18,7 +18,6 @@
 
 //#import <YYCategories.h>
 #import <MJExtension.h>
-#import <MJRefresh.h>
 #import <Masonry.h>
 
 #import "BlocksKit+UIKit.h"

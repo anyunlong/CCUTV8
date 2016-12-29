@@ -17,22 +17,19 @@ PODS:
   - CYLTabBarController (1.4.0)
   - Masonry (1.0.0)
   - MJExtension (3.0.10)
-  - MJRefresh (3.1.0)
 
 DEPENDENCIES:
   - AFNetworking
   - CYLTabBarController
   - Masonry
   - MJExtension
-  - MJRefresh
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   CYLTabBarController: cc144a2789b204d249bbbfbfcebc4b8cd1b66510
   Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
   MJExtension: d86aacb740c87519d20e3cca55b6fa4be6cc7548
-  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
 
-PODFILE CHECKSUM: f700d7efc14b8187888f6c7c7c6209c0d63533a4
+PODFILE CHECKSUM: db9828256f8e3868dd135dd597f3e4e8dd113a88
 
 COCOAPODS: 1.1.1
