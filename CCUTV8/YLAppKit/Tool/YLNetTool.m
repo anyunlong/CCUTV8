@@ -7,7 +7,7 @@
 
 #import "YLNetTool.h"
 
-static const NSString *YLNetToolHomeUrl = @"http://10.165.71.196:8000/";
+static const NSString *YLNetToolHomeUrl = @"http://10.73.59.159:8000/";
 
 @implementation YLNetTool
 

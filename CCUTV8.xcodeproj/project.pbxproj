@@ -23,15 +23,6 @@
 		A1166BCA1E0B7F25002B9739 /* V8MeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A1166BC61E0B7F25002B9739 /* V8MeViewController.m */; };
 		A1166C291E0B820F002B9739 /* YLTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = A1166BFD1E0B820F002B9739 /* YLTabBarController.m */; };
 		A1166C2A1E0B820F002B9739 /* YLNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = A1166BFF1E0B820F002B9739 /* YLNavigationController.m */; };
-		A1166C5C1E0BFF72002B9739 /* V8ClassifyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A1166C5A1E0BFF72002B9739 /* V8ClassifyViewController.m */; };
-		A1166C641E0C020E002B9739 /* V8ThemeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A1166C621E0C020E002B9739 /* V8ThemeCell.m */; };
-		A1166C651E0C020E002B9739 /* V8ThemeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1166C631E0C020E002B9739 /* V8ThemeCell.xib */; };
-		A1166C681E0CB5E4002B9739 /* V8Theme.m in Sources */ = {isa = PBXBuildFile; fileRef = A1166C671E0CB5E4002B9739 /* V8Theme.m */; };
-		A1166C711E0CBD98002B9739 /* V8EpisodeListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A1166C6F1E0CBD98002B9739 /* V8EpisodeListViewController.m */; };
-		A1166C721E0CBD98002B9739 /* V8EpisodeListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1166C701E0CBD98002B9739 /* V8EpisodeListViewController.xib */; };
-		A1166C751E0CBEF9002B9739 /* V8Episode.m in Sources */ = {isa = PBXBuildFile; fileRef = A1166C741E0CBEF9002B9739 /* V8Episode.m */; };
-		A1166C861E0D10A8002B9739 /* V8EpisodeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A1166C841E0D10A8002B9739 /* V8EpisodeCell.m */; };
-		A1166C871E0D10A8002B9739 /* V8EpisodeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1166C851E0D10A8002B9739 /* V8EpisodeCell.xib */; };
 		A120930D1E0AA429003A9A43 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A120930C1E0AA429003A9A43 /* main.m */; };
 		A12093101E0AA429003A9A43 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A120930F1E0AA429003A9A43 /* AppDelegate.m */; };
 		A12093161E0AA429003A9A43 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A12093141E0AA429003A9A43 /* Main.storyboard */; };
@@ -204,6 +195,15 @@
 		A15D58301E0FF9DA00B3B677 /* KTDropdownMenuView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A15D582D1E0FF9DA00B3B677 /* KTDropdownMenuView.bundle */; };
 		A15D58311E0FF9DA00B3B677 /* KTDropdownMenuView.m in Sources */ = {isa = PBXBuildFile; fileRef = A15D582F1E0FF9DA00B3B677 /* KTDropdownMenuView.m */; };
 		A17C297A1E14D95600FE7274 /* UINavigationItem+YLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A17C29791E14D95600FE7274 /* UINavigationItem+YLAdd.m */; };
+		A19F124D1E1D210500AB7DF9 /* V8ClassifyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A19F123E1E1D210500AB7DF9 /* V8ClassifyViewController.m */; };
+		A19F124E1E1D210500AB7DF9 /* V8EpisodeListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A19F12401E1D210500AB7DF9 /* V8EpisodeListViewController.m */; };
+		A19F124F1E1D210500AB7DF9 /* V8EpisodeListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A19F12411E1D210500AB7DF9 /* V8EpisodeListViewController.xib */; };
+		A19F12501E1D210500AB7DF9 /* V8Episode.m in Sources */ = {isa = PBXBuildFile; fileRef = A19F12441E1D210500AB7DF9 /* V8Episode.m */; };
+		A19F12511E1D210500AB7DF9 /* V8Theme.m in Sources */ = {isa = PBXBuildFile; fileRef = A19F12461E1D210500AB7DF9 /* V8Theme.m */; };
+		A19F12521E1D210500AB7DF9 /* V8EpisodeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A19F12481E1D210500AB7DF9 /* V8EpisodeCell.m */; };
+		A19F12531E1D210500AB7DF9 /* V8EpisodeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A19F12491E1D210500AB7DF9 /* V8EpisodeCell.xib */; };
+		A19F12541E1D210500AB7DF9 /* V8ThemeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A19F124B1E1D210500AB7DF9 /* V8ThemeCell.m */; };
+		A19F12551E1D210500AB7DF9 /* V8ThemeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A19F124C1E1D210500AB7DF9 /* V8ThemeCell.xib */; };
 		A1E4FA361E0E18D1009CD577 /* V8DownloadViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A1E4FA351E0E18D1009CD577 /* V8DownloadViewController.m */; };
 		A1E4FA3B1E0E1A55009CD577 /* V8DownloadEpisodeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A1E4FA3A1E0E1A55009CD577 /* V8DownloadEpisodeCell.m */; };
 		A1E4FA3D1E0E1AA5009CD577 /* V8DownloadEpisodeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1E4FA3C1E0E1AA5009CD577 /* V8DownloadEpisodeCell.xib */; };
@@ -251,21 +251,6 @@
 		A1166BFD1E0B820F002B9739 /* YLTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLTabBarController.m; sourceTree = "<group>"; };
 		A1166BFE1E0B820F002B9739 /* YLNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLNavigationController.h; sourceTree = "<group>"; };
 		A1166BFF1E0B820F002B9739 /* YLNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLNavigationController.m; sourceTree = "<group>"; };
-		A1166C591E0BFF72002B9739 /* V8ClassifyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = V8ClassifyViewController.h; sourceTree = "<group>"; };
-		A1166C5A1E0BFF72002B9739 /* V8ClassifyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = V8ClassifyViewController.m; sourceTree = "<group>"; };
-		A1166C611E0C020E002B9739 /* V8ThemeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = V8ThemeCell.h; sourceTree = "<group>"; };
-		A1166C621E0C020E002B9739 /* V8ThemeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = V8ThemeCell.m; sourceTree = "<group>"; };
-		A1166C631E0C020E002B9739 /* V8ThemeCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = V8ThemeCell.xib; sourceTree = "<group>"; };
-		A1166C661E0CB5E4002B9739 /* V8Theme.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = V8Theme.h; sourceTree = "<group>"; };
-		A1166C671E0CB5E4002B9739 /* V8Theme.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = V8Theme.m; sourceTree = "<group>"; };
-		A1166C6E1E0CBD98002B9739 /* V8EpisodeListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = V8EpisodeListViewController.h; sourceTree = "<group>"; };
-		A1166C6F1E0CBD98002B9739 /* V8EpisodeListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = V8EpisodeListViewController.m; sourceTree = "<group>"; };
-		A1166C701E0CBD98002B9739 /* V8EpisodeListViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = V8EpisodeListViewController.xib; sourceTree = "<group>"; };
-		A1166C731E0CBEF9002B9739 /* V8Episode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = V8Episode.h; sourceTree = "<group>"; };
-		A1166C741E0CBEF9002B9739 /* V8Episode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = V8Episode.m; sourceTree = "<group>"; };
-		A1166C831E0D10A8002B9739 /* V8EpisodeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = V8EpisodeCell.h; sourceTree = "<group>"; };
-		A1166C841E0D10A8002B9739 /* V8EpisodeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = V8EpisodeCell.m; sourceTree = "<group>"; };
-		A1166C851E0D10A8002B9739 /* V8EpisodeCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = V8EpisodeCell.xib; sourceTree = "<group>"; };
 		A12093081E0AA429003A9A43 /* CCUTV8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CCUTV8.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A120930C1E0AA429003A9A43 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A120930E1E0AA429003A9A43 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -390,6 +375,21 @@
 		A15D582F1E0FF9DA00B3B677 /* KTDropdownMenuView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KTDropdownMenuView.m; sourceTree = "<group>"; };
 		A17C29781E14D95600FE7274 /* UINavigationItem+YLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationItem+YLAdd.h"; sourceTree = "<group>"; };
 		A17C29791E14D95600FE7274 /* UINavigationItem+YLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UINavigationItem+YLAdd.m"; sourceTree = "<group>"; };
+		A19F123D1E1D210500AB7DF9 /* V8ClassifyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = V8ClassifyViewController.h; sourceTree = "<group>"; };
+		A19F123E1E1D210500AB7DF9 /* V8ClassifyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = V8ClassifyViewController.m; sourceTree = "<group>"; };
+		A19F123F1E1D210500AB7DF9 /* V8EpisodeListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = V8EpisodeListViewController.h; sourceTree = "<group>"; };
+		A19F12401E1D210500AB7DF9 /* V8EpisodeListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = V8EpisodeListViewController.m; sourceTree = "<group>"; };
+		A19F12411E1D210500AB7DF9 /* V8EpisodeListViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = V8EpisodeListViewController.xib; sourceTree = "<group>"; };
+		A19F12431E1D210500AB7DF9 /* V8Episode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = V8Episode.h; sourceTree = "<group>"; };
+		A19F12441E1D210500AB7DF9 /* V8Episode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = V8Episode.m; sourceTree = "<group>"; };
+		A19F12451E1D210500AB7DF9 /* V8Theme.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = V8Theme.h; sourceTree = "<group>"; };
+		A19F12461E1D210500AB7DF9 /* V8Theme.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = V8Theme.m; sourceTree = "<group>"; };
+		A19F12471E1D210500AB7DF9 /* V8EpisodeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = V8EpisodeCell.h; sourceTree = "<group>"; };
+		A19F12481E1D210500AB7DF9 /* V8EpisodeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = V8EpisodeCell.m; sourceTree = "<group>"; };
+		A19F12491E1D210500AB7DF9 /* V8EpisodeCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = V8EpisodeCell.xib; sourceTree = "<group>"; };
+		A19F124A1E1D210500AB7DF9 /* V8ThemeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = V8ThemeCell.h; sourceTree = "<group>"; };
+		A19F124B1E1D210500AB7DF9 /* V8ThemeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = V8ThemeCell.m; sourceTree = "<group>"; };
+		A19F124C1E1D210500AB7DF9 /* V8ThemeCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = V8ThemeCell.xib; sourceTree = "<group>"; };
 		A1E4FA341E0E18D1009CD577 /* V8DownloadViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = V8DownloadViewController.h; sourceTree = "<group>"; };
 		A1E4FA351E0E18D1009CD577 /* V8DownloadViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = V8DownloadViewController.m; sourceTree = "<group>"; };
 		A1E4FA391E0E1A55009CD577 /* V8DownloadEpisodeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = V8DownloadEpisodeCell.h; sourceTree = "<group>"; };
@@ -508,44 +508,6 @@
 			path = TabBar;
 			sourceTree = "<group>";
 		};
-		A1166C491E0BFD23002B9739 /* Home */ = {
-			isa = PBXGroup;
-			children = (
-				A1166C4A1E0BFD23002B9739 /* Controller */,
-				A1166C4E1E0BFD23002B9739 /* Model */,
-				A1166C611E0C020E002B9739 /* V8ThemeCell.h */,
-				A1166C621E0C020E002B9739 /* V8ThemeCell.m */,
-				A1166C631E0C020E002B9739 /* V8ThemeCell.xib */,
-				A1166C831E0D10A8002B9739 /* V8EpisodeCell.h */,
-				A1166C841E0D10A8002B9739 /* V8EpisodeCell.m */,
-				A1166C851E0D10A8002B9739 /* V8EpisodeCell.xib */,
-			);
-			path = Home;
-			sourceTree = "<group>";
-		};
-		A1166C4A1E0BFD23002B9739 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				A1166C591E0BFF72002B9739 /* V8ClassifyViewController.h */,
-				A1166C5A1E0BFF72002B9739 /* V8ClassifyViewController.m */,
-				A1166C6E1E0CBD98002B9739 /* V8EpisodeListViewController.h */,
-				A1166C6F1E0CBD98002B9739 /* V8EpisodeListViewController.m */,
-				A1166C701E0CBD98002B9739 /* V8EpisodeListViewController.xib */,
-			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
-		A1166C4E1E0BFD23002B9739 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				A1166C661E0CB5E4002B9739 /* V8Theme.h */,
-				A1166C671E0CB5E4002B9739 /* V8Theme.m */,
-				A1166C731E0CBEF9002B9739 /* V8Episode.h */,
-				A1166C741E0CBEF9002B9739 /* V8Episode.m */,
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
 		A12092FF1E0AA429003A9A43 = {
 			isa = PBXGroup;
 			children = (
@@ -571,7 +533,7 @@
 		A120930A1E0AA429003A9A43 /* CCUTV8 */ = {
 			isa = PBXGroup;
 			children = (
-				A1166C491E0BFD23002B9739 /* Home */,
+				A19F123B1E1D210500AB7DF9 /* Classify */,
 				A15A99CB1E0ABB45005FE7D4 /* YLAppKit */,
 				A1166BC31E0B7F25002B9739 /* Me */,
 				A120930E1E0AA429003A9A43 /* AppDelegate.h */,
@@ -817,6 +779,44 @@
 			path = KTDropdownMenuView;
 			sourceTree = "<group>";
 		};
+		A19F123B1E1D210500AB7DF9 /* Classify */ = {
+			isa = PBXGroup;
+			children = (
+				A19F123C1E1D210500AB7DF9 /* Controller */,
+				A19F12421E1D210500AB7DF9 /* Model */,
+				A19F12471E1D210500AB7DF9 /* V8EpisodeCell.h */,
+				A19F12481E1D210500AB7DF9 /* V8EpisodeCell.m */,
+				A19F12491E1D210500AB7DF9 /* V8EpisodeCell.xib */,
+				A19F124A1E1D210500AB7DF9 /* V8ThemeCell.h */,
+				A19F124B1E1D210500AB7DF9 /* V8ThemeCell.m */,
+				A19F124C1E1D210500AB7DF9 /* V8ThemeCell.xib */,
+			);
+			path = Classify;
+			sourceTree = "<group>";
+		};
+		A19F123C1E1D210500AB7DF9 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				A19F123D1E1D210500AB7DF9 /* V8ClassifyViewController.h */,
+				A19F123E1E1D210500AB7DF9 /* V8ClassifyViewController.m */,
+				A19F123F1E1D210500AB7DF9 /* V8EpisodeListViewController.h */,
+				A19F12401E1D210500AB7DF9 /* V8EpisodeListViewController.m */,
+				A19F12411E1D210500AB7DF9 /* V8EpisodeListViewController.xib */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		A19F12421E1D210500AB7DF9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A19F12431E1D210500AB7DF9 /* V8Episode.h */,
+				A19F12441E1D210500AB7DF9 /* V8Episode.m */,
+				A19F12451E1D210500AB7DF9 /* V8Theme.h */,
+				A19F12461E1D210500AB7DF9 /* V8Theme.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		A1E4FA371E0E1A1B009CD577 /* Model */ = {
 			isa = PBXGroup;
 			children = (
@@ -952,10 +952,9 @@
 				A15A9ADD1E0ABB45005FE7D4 /* player_play@2x.png in Resources */,
 				A15A9AC81E0ABB45005FE7D4 /* player_block@2x.png in Resources */,
 				A15A9ABF1E0ABB45005FE7D4 /* YLTableViewCell.xib in Resources */,
-				A1166C871E0D10A8002B9739 /* V8EpisodeCell.xib in Resources */,
 				A120931E1E0AA429003A9A43 /* LaunchScreen.storyboard in Resources */,
+				A19F12551E1D210500AB7DF9 /* V8ThemeCell.xib in Resources */,
 				A15A9AE01E0ABB45005FE7D4 /* player_play@3x.png in Resources */,
-				A1166C651E0C020E002B9739 /* V8ThemeCell.xib in Resources */,
 				A15A9AC21E0ABB45005FE7D4 /* player_back@2x.png in Resources */,
 				A120931B1E0AA429003A9A43 /* Assets.xcassets in Resources */,
 				A15A9ADA1E0ABB45005FE7D4 /* player_pause@3x.png in Resources */,
@@ -963,11 +962,12 @@
 				A1E4FA3D1E0E1AA5009CD577 /* V8DownloadEpisodeCell.xib in Resources */,
 				A15D58301E0FF9DA00B3B677 /* KTDropdownMenuView.bundle in Resources */,
 				A15A9AD11E0ABB45005FE7D4 /* player_full@2x.png in Resources */,
+				A19F124F1E1D210500AB7DF9 /* V8EpisodeListViewController.xib in Resources */,
 				A12093161E0AA429003A9A43 /* Main.storyboard in Resources */,
 				A15A9AD41E0ABB45005FE7D4 /* player_full@3x.png in Resources */,
 				A15A9ACE1E0ABB45005FE7D4 /* player_defaultbackground.png in Resources */,
+				A19F12531E1D210500AB7DF9 /* V8EpisodeCell.xib in Resources */,
 				A15A9AD71E0ABB45005FE7D4 /* player_pause@2x.png in Resources */,
-				A1166C721E0CBD98002B9739 /* V8EpisodeListViewController.xib in Resources */,
 				A15A9AC51E0ABB45005FE7D4 /* player_back@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1068,10 +1068,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				A15D58221E0EA65200B3B677 /* UIBarButtonItem+YLAdd.m in Sources */,
-				A1166C681E0CB5E4002B9739 /* V8Theme.m in Sources */,
-				A1166C861E0D10A8002B9739 /* V8EpisodeCell.m in Sources */,
 				A15A9AB91E0ABB45005FE7D4 /* YLNetTool.m in Sources */,
 				A15A9A8F1E0ABB45005FE7D4 /* UIImage+BlocksKit.m in Sources */,
+				A19F12511E1D210500AB7DF9 /* V8Theme.m in Sources */,
 				A15A9A921E0ABB45005FE7D4 /* UIImagePickerController+BlocksKit.m in Sources */,
 				A15A9A891E0ABB45005FE7D4 /* UIControl+BlocksKit.m in Sources */,
 				A15A9AAD1E0ABB45005FE7D4 /* UIView+YLAdd.m in Sources */,
@@ -1085,15 +1084,14 @@
 				A15A9A501E0ABB45005FE7D4 /* NSMutableArray+BlocksKit.m in Sources */,
 				A15A9A951E0ABB45005FE7D4 /* UITextField+BlocksKit.m in Sources */,
 				A1166BCA1E0B7F25002B9739 /* V8MeViewController.m in Sources */,
+				A19F12521E1D210500AB7DF9 /* V8EpisodeCell.m in Sources */,
 				A1E4FA361E0E18D1009CD577 /* V8DownloadViewController.m in Sources */,
 				A15A9A561E0ABB45005FE7D4 /* NSMutableIndexSet+BlocksKit.m in Sources */,
 				A15A9AB61E0ABB45005FE7D4 /* YLConst.m in Sources */,
-				A1166C751E0CBEF9002B9739 /* V8Episode.m in Sources */,
 				A1166C291E0B820F002B9739 /* YLTabBarController.m in Sources */,
 				A15A9A8C1E0ABB45005FE7D4 /* UIGestureRecognizer+BlocksKit.m in Sources */,
 				A15A9A651E0ABB45005FE7D4 /* NSObject+BKBlockExecution.m in Sources */,
 				A15A9AA71E0ABB45005FE7D4 /* UIImage+YLAdd.m in Sources */,
-				A1166C641E0C020E002B9739 /* V8ThemeCell.m in Sources */,
 				A15D58311E0FF9DA00B3B677 /* KTDropdownMenuView.m in Sources */,
 				A15A9A4D1E0ABB45005FE7D4 /* NSMapTable+BlocksKit.m in Sources */,
 				A15A9A7A1E0ABB45005FE7D4 /* NSObject+A2BlockDelegate.m in Sources */,
@@ -1102,27 +1100,29 @@
 				A17C297A1E14D95600FE7274 /* UINavigationItem+YLAdd.m in Sources */,
 				A12093101E0AA429003A9A43 /* AppDelegate.m in Sources */,
 				A15A9ABC1E0ABB45005FE7D4 /* YLTableViewCell.m in Sources */,
-				A1166C5C1E0BFF72002B9739 /* V8ClassifyViewController.m in Sources */,
 				A120930D1E0AA429003A9A43 /* main.m in Sources */,
+				A19F124E1E1D210500AB7DF9 /* V8EpisodeListViewController.m in Sources */,
 				A15A9A6E1E0ABB45005FE7D4 /* NSSet+BlocksKit.m in Sources */,
 				A15A9AA11E0ABB45005FE7D4 /* NSString+YLAdd.m in Sources */,
 				A15D58251E0EA77600B3B677 /* UIButton+YLAdd.m in Sources */,
 				A15A9A471E0ABB45005FE7D4 /* NSIndexSet+BlocksKit.m in Sources */,
 				A15A9A4A1E0ABB45005FE7D4 /* NSInvocation+BlocksKit.m in Sources */,
 				A15A9A711E0ABB45005FE7D4 /* NSTimer+BlocksKit.m in Sources */,
+				A19F12541E1D210500AB7DF9 /* V8ThemeCell.m in Sources */,
 				A15A9A9B1E0ABB45005FE7D4 /* UIView+BlocksKit.m in Sources */,
 				A15A9A441E0ABB45005FE7D4 /* NSDictionary+BlocksKit.m in Sources */,
 				A15A9A531E0ABB45005FE7D4 /* NSMutableDictionary+BlocksKit.m in Sources */,
 				A15A9A6B1E0ABB45005FE7D4 /* NSOrderedSet+BlocksKit.m in Sources */,
 				A1E4FA3B1E0E1A55009CD577 /* V8DownloadEpisodeCell.m in Sources */,
 				A15A9A831E0ABB45005FE7D4 /* UIAlertView+BlocksKit.m in Sources */,
-				A1166C711E0CBD98002B9739 /* V8EpisodeListViewController.m in Sources */,
+				A19F12501E1D210500AB7DF9 /* V8Episode.m in Sources */,
 				A15A9A411E0ABB45005FE7D4 /* NSArray+BlocksKit.m in Sources */,
 				A15A9A5C1E0ABB45005FE7D4 /* NSMutableSet+BlocksKit.m in Sources */,
 				A15A9A981E0ABB45005FE7D4 /* UITextView+BlocksKit.m in Sources */,
 				A15A9AE31E0ABB45005FE7D4 /* YLVideoPlayerController.m in Sources */,
 				A15A9A7D1E0ABB45005FE7D4 /* NSObject+A2DynamicDelegate.m in Sources */,
 				A1166C2A1E0B820F002B9739 /* YLNavigationController.m in Sources */,
+				A19F124D1E1D210500AB7DF9 /* V8ClassifyViewController.m in Sources */,
 				A15A9A9E1E0ABB45005FE7D4 /* UIWebView+BlocksKit.m in Sources */,
 				A15A9A591E0ABB45005FE7D4 /* NSMutableOrderedSet+BlocksKit.m in Sources */,
 				A15A9A771E0ABB45005FE7D4 /* A2DynamicDelegate.m in Sources */,
